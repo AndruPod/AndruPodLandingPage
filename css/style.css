@@ -129,11 +129,11 @@ body {
 }
 .button-2 {
   background-color: #009379;
+  border: 1px solid transparent;
   color: #fff;
 }
 .button-2 img {
   margin: 0px 8px 0px 0px;
-  border: 1px solid transparent;
 }
 .button-2:hover {
   background: #fff;
